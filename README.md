@@ -10,3 +10,8 @@ To run this project on your local device, use [Android Studio](https://developer
 
 Example screenshot from app:
 
+![image](https://user-images.githubusercontent.com/34773124/123267257-7c2feb00-d505-11eb-9461-8019b1dd6eb4.png)
+
+Example bottom sheet dialog window:
+
+![image](https://user-images.githubusercontent.com/34773124/123267353-95d13280-d505-11eb-9c8e-cc6377c0c3f0.png)
